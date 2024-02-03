@@ -1,3 +1,5 @@
+theme: jekyll-theme-Midnight
+
 # chelseaheimiller.github.io
 
 <!DOCTYPE html>
