@@ -1,4 +1,4 @@
-theme: jekyll-theme-Midnight
+theme: midnight
 
 # chelseaheimiller.github.io
 
