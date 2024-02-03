@@ -1,6 +1,3 @@
----
-theme: midnight
----
 
 # chelseaheimiller.github.io
 
