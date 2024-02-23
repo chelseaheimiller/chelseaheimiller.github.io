@@ -1,5 +1,6 @@
 
-# chelseaheimiller.github.io
+# Chelsea Heimiller
+## Data Analyst | Data Scientist
 
 <!DOCTYPE html>
 <html>
